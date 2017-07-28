@@ -1,7 +1,8 @@
 body {
     background-image: url('../img/background.jpg');
-    background-color: navy;
+    background-color: #184580;
     margin: auto;
+    background-attachment: fixed;
 }
 
 img {
@@ -17,11 +18,8 @@ img {
     opacity: 0.995;
 }
 
-
-
-
 h1 {
     font-size: 2rem;
-    color: white;
+    color: #184580;
     font-family: 'Sacramento', cursive;
 }
