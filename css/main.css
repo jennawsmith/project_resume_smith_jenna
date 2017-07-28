@@ -7,7 +7,7 @@ body {
 
 img {
     max-width: 90%;
-    margin: auto;
+    margin-left: 5%;
     text-align: center;
 }
 
@@ -24,4 +24,12 @@ h1 {
     font-family: 'Sacramento', cursive;
     text-align: center;
     padding: 5%;
+}
+
+.sections {
+    padding: 2%;
+}
+
+h2 {
+    color: #cc6666;
 }
