@@ -19,7 +19,9 @@ img {
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 5rem;
     color: #184580;
     font-family: 'Sacramento', cursive;
+    text-align: center;
+    padding: 5%;
 }
