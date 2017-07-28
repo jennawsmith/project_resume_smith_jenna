@@ -111,3 +111,27 @@ ul li {
         clear: both;
     }
 }
+
+@media all and (min-width: 900px) {
+
+    h1 {
+        font-size: 4rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    p,
+    a {
+        font-size: 1.35rem;
+    }
+
+    .joblocation {
+        font-size: 1.15rem;
+    }
+    ul li {
+        font-size: 1.25rem;
+    }
+
+}
