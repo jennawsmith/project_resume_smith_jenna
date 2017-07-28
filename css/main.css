@@ -28,6 +28,7 @@ h1 {
 
 .sections {
     padding: 2%;
+    border-top: 3px solid #cc6666;
 }
 
 h2 {
