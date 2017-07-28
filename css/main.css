@@ -6,3 +6,8 @@ img {
     max-width: 90%;
     margin: auto;
 }
+
+h1 {
+    font-size: 2rem;
+    color: white;
+}
