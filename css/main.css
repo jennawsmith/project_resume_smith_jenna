@@ -72,6 +72,14 @@ ul li {
     margin-top: 0;
 }
 
+.animateme {
+    transform-origin: center center center;
+}
+
+.scrollme {
+    perspective: 600px;
+}
+
 @media all and (min-width: 600px) {
 
     h1 {
