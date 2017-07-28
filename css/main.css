@@ -42,9 +42,12 @@ hr {
     border: 0;
 }
 
-p {
+p,
+a {
     font-size: 2rem;
     font-family: 'Oxygen', sans-serif;
+    text-decoration: none;
+    color: #184580;
 }
 
 .joblocation {
@@ -60,6 +63,7 @@ p {
 ul li {
     font-family: 'Oxygen', sans-serif;
     font-size: 1.5rem;
+    color: #184580;
 }
 
 .eddescription {
