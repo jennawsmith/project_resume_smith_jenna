@@ -38,7 +38,8 @@ h2 {
 }
 
 p,
-a {
+a,
+h3 {
     font-size: 1.25rem;
     font-family: 'Oxygen', sans-serif;
     text-decoration: none;
@@ -85,7 +86,8 @@ ul li {
     }
 
     p,
-    a {
+    a,
+    h3 {
         font-size: 1.75rem;
     }
 
@@ -125,7 +127,8 @@ ul li {
     }
 
     p,
-    a {
+    a,
+    h3 {
         font-size: 1.35rem;
     }
 
