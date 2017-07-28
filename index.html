@@ -11,7 +11,7 @@
 </head>
 <body>
     <div id="container">
-        <h1 class="scrollme animateme" data-when="enter" data-from="0.5" data-to="0"> Jenna W. Smith </h1>
+        <h1> Jenna W. Smith </h1>
 
         <section class="sections">
             <h2>Education</h2>
@@ -129,11 +129,18 @@
             <h2> More About Me</h2>
 
             <p>I'm a full-time teacher during the day where I strive to enrich the lives of 100 fourth graders and push them to do their absolute best in and out of the classroom. By night, I'm a masters student at the University of Florida. My dream would be to combine my love for teaching and design into one job - what that entails, I'm not quite sure yet! I currently live in Lakeland, Florida with my husband, Ethan, and our two huskies, Echo and Laia. </p>
-            <img src="img/jennasmithfamily.jpg" alt="Jenna Smith's Family Photo">
+            <img src="img/jennasmithfamily.jpg" alt="Jenna Smith's Family Photo" class="animateme"       data-when="span"
+            data-from="0"
+            data-to="1"
+            data-easing="easeinout"
+            data-rotatey="360">
         </section>
     </div>
 
-    <script src="js/jquery.scrollme.min.js">
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/jquery.scrollme.min.js"></script>
+    <script src="js/jquery.backstretch.min.js"></script>
     <script src="js/main.js"></script>
+
 </body>
 </html>

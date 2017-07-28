@@ -19,7 +19,7 @@ img {
 }
 
 h1 {
-    font-size: 6rem;
+    font-size: 4rem;
     color: #184580;
     font-family: 'Sacramento', cursive;
     text-align: center;
@@ -33,26 +33,20 @@ h1 {
 
 h2 {
     color: #cc6666;
-    font-size: 4rem;
+    font-size: 2rem;
     font-family: 'Oxygen', sans-serif;
-}
-
-hr {
-    background-color: #cc6666;
-    height: 3px;
-    border: 0;
 }
 
 p,
 a {
-    font-size: 2rem;
+    font-size: 1.25rem;
     font-family: 'Oxygen', sans-serif;
     text-decoration: none;
     color: #184580;
 }
 
 .joblocation {
-    font-size: 1.7rem;
+    font-size: 1.15rem;
     margin-top: 0;
     color: #cc6666;
 }
@@ -63,7 +57,7 @@ a {
 
 ul li {
     font-family: 'Oxygen', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.05rem;
     color: #184580;
 }
 
