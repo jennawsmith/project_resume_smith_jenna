@@ -35,3 +35,9 @@ h2 {
     font-size: 3rem;
     font-family: 'Oxygen', sans-serif;
 }
+
+hr {
+    background-color: #cc6666;
+    height: 3px;
+    border: 0;
+}
