@@ -71,3 +71,43 @@ ul li {
     color: #cc6666;
     margin-top: 0;
 }
+
+@media all and (min-width: 600px) {
+
+    h1 {
+        font-size: 5rem;
+    }
+
+    h2 {
+        font-size: 3rem;
+    }
+
+    p,
+    a {
+        font-size: 1.75rem;
+    }
+
+    ul li {
+        font-size: 1.5rem;
+    }
+
+    .floatleft {
+        width: 42%;
+        float: left;
+    }
+
+    .floatright {
+        width: 42%;
+        float: right;
+    }
+
+    .floatleft::after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+
+    .clear {
+        clear: both;
+    }
+}
