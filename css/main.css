@@ -1,16 +1,24 @@
 body {
     background-image: url('../img/background.jpg');
     background-color: navy;
+    margin: auto;
 }
 
 img {
-    max-width: 70%;
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
 }
 
 #container {
-    max-width: 90%;
+    max-width: 80%;
     margin: auto;
+    background-color: white;
+    opacity: 0.995;
 }
+
+
+
 
 h1 {
     font-size: 2rem;
